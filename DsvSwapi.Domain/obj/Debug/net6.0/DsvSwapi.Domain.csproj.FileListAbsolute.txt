@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\bin\Debug\net6.0\DsvSwapi.Domain.deps.json
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\bin\Debug\net6.0\DsvSwapi.Domain.dll
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\bin\Debug\net6.0\DsvSwapi.Domain.pdb
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.AssemblyInfo.cs
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.dll
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\refint\DsvSwapi.Domain.dll
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\DsvSwapi.Domain.pdb
+C:\inetpub\wwwroot\DSV\DsvSwapi.Domain\obj\Debug\net6.0\ref\DsvSwapi.Domain.dll
